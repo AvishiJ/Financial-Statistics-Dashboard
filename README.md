@@ -4,6 +4,9 @@
 
 This dynamic financial dashboard, created using Microsoft Excel, provides a comprehensive analysis of income sources, target achievement, operating profits, and marketing strategies. Developed in the realm of Management Information Services (MIS), this tool offers valuable insights for strategic decision-making and financial management.
 
+
+![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/79bd1ee7-a34d-4cfa-af0c-560d73b9f440)
+
 #### Dashboard Components
 
 1. **Total Income Analysis**: A detailed breakdown of all income sources, showcasing the percentage contribution of each source. The source with the highest value is highlighted for easy identification.
@@ -20,7 +23,6 @@ This dynamic financial dashboard, created using Microsoft Excel, provides a comp
 
 7. **Marketing Strategy Analysis**: In-depth analysis of two types of marketing strategies, enabling users to assess their effectiveness and impact on revenue generation.
 
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/79bd1ee7-a34d-4cfa-af0c-560d73b9f440)
 
 
 #### Dynamic Functionality
