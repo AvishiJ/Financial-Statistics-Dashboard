@@ -23,7 +23,16 @@ This dynamic financial dashboard, created using Microsoft Excel, provides a comp
 
 7. **Marketing Strategy Analysis**: In-depth analysis of two types of marketing strategies, enabling users to assess their effectiveness and impact on revenue generation.
 
+![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/ae687abf-e25b-40ee-84cd-6d23559604d2)
 
+#### Second dashboard -Geographically 
+It analyse the total profits by countries:
+
+1. Creative design for a dynamic map chart.
+2. Analyse the profit value from each country, With highlights for the most profitable country.
+3. Details of various types of taxes
+4. The percentage of profits achieved using a doughnut chart with circular edges.
+5. Fully controlled by yearly slicer
 
 #### Dynamic Functionality
 
