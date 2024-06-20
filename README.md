@@ -1,4 +1,4 @@
-### Financial Dashboard README
+![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/d287aa1f-5fc1-4583-a1e0-9c7b3cedf423)### Financial Dashboard README
 
 #### Overview
 
@@ -33,6 +33,16 @@ It analyse the total profits by countries:
 3. Details of various types of taxes
 4. The percentage of profits achieved using a doughnut chart with circular edges.
 5. Fully controlled by yearly slicer
+
+![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/684a91b9-c341-4acc-8a4e-fbd592bbb21b)
+
+#### Third dashboard - Sale process status:
+
+1. A diagram that explains the stages that all sales processes go through, so you can see how many customers go through each stage, and highlights the most frequently used stages.
+2. Doughnut chart showing total sales, the percentage of sales achieved from the target.
+3. Sales by points of sales.
+4. Chart for the total refunded orders percentage.
+5. Bar chart for orders by points of sales.
 
 #### Dynamic Functionality
 
