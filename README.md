@@ -1,4 +1,4 @@
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/d287aa1f-5fc1-4583-a1e0-9c7b3cedf423)### Financial Dashboard README
+### Financial Dashboard README
 
 #### Overview
 
