@@ -1,4 +1,4 @@
-### Financial Dashboard README
+### Financial Dashboard System 
 
 #### Overview
 
@@ -43,6 +43,11 @@ It analyse the total profits by countries:
 3. Sales by points of sales.
 4. Chart for the total refunded orders percentage.
 5. Bar chart for orders by points of sales.
+
+![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/474c9696-72f9-4fb9-966e-395dc9341e19)
+
+#### Fourth dashboard - Project Status
+It is a project's workflow report, with the several main KPIs in a beautiful design updatable directly from data-table.
 
 #### Dynamic Functionality
 
