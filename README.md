@@ -1,11 +1,73 @@
-### Financial Dashboard System 
+# Financial Statistics Dashboard System
 
-#### Overview
+This repository contains a comprehensive financial statistics dashboard system created in MS Excel. It provides detailed analyses of income sources, profits by countries, sales process status, and project workflow KPIs.
 
-This dynamic financial dashboard, created using Microsoft Excel, provides a comprehensive analysis of income sources, target achievement, operating profits, and marketing strategies. Developed in the realm of Management Information Services (MIS), this tool offers valuable insights for strategic decision-making and financial management.
-
+## Dashboards Overview
 
 ![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/79bd1ee7-a34d-4cfa-af0c-560d73b9f440)
+
+### Dashboard 1: Income Sources Analysis
+
+- **Dynamic Web Chart**: Analyzes all sources of income, displaying the percentage of each source and highlighting the source with the highest value.
+- **Creative Doughnut Chart**: Shows the achieved percentage compared to the income target.
+- **Title and Description**: Provides an overview of the dashboard's purpose.
+- **Total Income and Target**: Displays the total income amount and the set target.
+- **Line Chart**: Visualizes income trends by months.
+- **Income Sources Items**: Counts and percentages of different income sources.
+- **Average Monthly Income**: Calculated average monthly income.
+- **Bar Chart**: Displays monthly operating profits and total amounts.
+- **Marketing Strategies**: Analyzes performance based on two types of marketing strategies.
+- **Yearly Slicer Control**: All values and charts update based on the selected year.
+
+
+![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/ae687abf-e25b-40ee-84cd-6d23559604d2)
+
+### Dashboard 2: Profits by Countries
+
+- **Dynamic Map Chart**: Creative design showing profit values across different countries.
+- **Country Analysis**: Details profit values from each country, highlighting the most profitable one.
+- **Taxes Overview**: Provides information on various types of taxes.
+- **Doughnut Chart**: Represents the percentage of profits achieved compared to the target with circular edges.
+- **Yearly Slicer Control**: Fully controlled by the yearly slicer for dynamic updates.
+
+
+![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/684a91b9-c341-4acc-8a4e-fbd592bbb21b)
+
+### Dashboard 3: Sales Process Status
+
+- **Diagram**: Illustrates stages of sales processes, highlighting the most frequent stages.
+- **Doughnut Chart**: Shows total sales and the percentage achieved from the target.
+- **Sales by Points of Sales**: Analyzes sales distribution across different points of sales.
+- **Refunded Orders**: Bar chart displaying the percentage of refunded orders.
+- **Yearly Slicer Control**: Enables filtering and updating based on the selected year.
+
+![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/474c9696-72f9-4fb9-966e-395dc9341e19)
+
+### Dashboard 4: Project Workflow Report
+
+- **KPIs Overview**: Provides key performance indicators (KPIs) in a visually appealing design.
+- **Data-Table Integration**: Updates KPIs directly from the data table.
+
+## Installation and Usage
+
+### Prerequisites
+
+- Microsoft Excel (Version XYZ or higher)
+
+### Usage
+
+1. **Download**: Clone or download the repository to your local machine.
+   ```bash
+   git clone https://github.com/yourusername/financial-dashboard.git
+   cd financial-dashboard
+   ```
+2. **Open MS Excel**: Open the Excel file (`financial_dashboard.xlsx`) containing the dashboards.
+
+3. **Dashboard Navigation**: Navigate between different sheets representing each dashboard.
+
+4. **Data Updates**: Update the underlying data tables to reflect current financial data.
+
+5. **Yearly Slicer**: Use the slicer to filter data and dynamically update dashboard visuals based on the selected year.
 
 #### Dashboard Components
 
@@ -22,49 +84,3 @@ This dynamic financial dashboard, created using Microsoft Excel, provides a comp
 6. **Monthly Operating Profits**: A bar chart depicting monthly operating profits alongside the total amount, facilitating comparison and evaluation of financial health.
 
 7. **Marketing Strategy Analysis**: In-depth analysis of two types of marketing strategies, enabling users to assess their effectiveness and impact on revenue generation.
-
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/ae687abf-e25b-40ee-84cd-6d23559604d2)
-
-#### Second dashboard -Geographically 
-It analyse the total profits by countries:
-
-1. Creative design for a dynamic map chart.
-2. Analyse the profit value from each country, With highlights for the most profitable country.
-3. Details of various types of taxes
-4. The percentage of profits achieved using a doughnut chart with circular edges.
-5. Fully controlled by yearly slicer
-
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/684a91b9-c341-4acc-8a4e-fbd592bbb21b)
-
-#### Third dashboard - Sale process status:
-
-1. A diagram that explains the stages that all sales processes go through, so you can see how many customers go through each stage, and highlights the most frequently used stages.
-2. Doughnut chart showing total sales, the percentage of sales achieved from the target.
-3. Sales by points of sales.
-4. Chart for the total refunded orders percentage.
-5. Bar chart for orders by points of sales.
-
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/474c9696-72f9-4fb9-966e-395dc9341e19)
-
-#### Fourth dashboard - Project Status
-It is a project's workflow report, with the several main KPIs in a beautiful design updatable directly from data-table.
-
-#### Dynamic Functionality
-
-Users can control and update all displayed values based on their selection of the year through the slicer feature. This allows for a customized analysis tailored to specific timeframes, enhancing the dashboard's versatility and utility.
-
-#### Data Presentation
-
-The dashboard provides a visually appealing and user-friendly interface, ensuring ease of interpretation and navigation. With intuitive design and interactive elements, users can explore financial data effortlessly, fostering deeper insights and strategic decision-making.
-
-#### Total Income and Target
-
-The dashboard prominently displays the total income amount and the corresponding target, offering a clear reference point for performance evaluation and goal tracking.
-
-#### Compatibility
-
-The dashboard, designed within Microsoft Excel, is compatible with various devices and screen sizes, ensuring accessibility and usability across different platforms.
-
-#### Disclaimer
-
-The data presented in this dashboard is for illustrative purposes only and should not be considered as financial advice. Users are encouraged to consult with financial experts before making any investment or business decisions based on the information provided herein.
