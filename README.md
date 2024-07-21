@@ -48,27 +48,6 @@ This repository contains a comprehensive financial statistics dashboard system c
 - **KPIs Overview**: Provides key performance indicators (KPIs) in a visually appealing design.
 - **Data-Table Integration**: Updates KPIs directly from the data table.
 
-## Installation and Usage
-
-### Prerequisites
-
-- Microsoft Excel (Version XYZ or higher)
-
-### Usage
-
-1. **Download**: Clone or download the repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/financial-dashboard.git
-   cd financial-dashboard
-   ```
-2. **Open MS Excel**: Open the Excel file (`financial_dashboard.xlsx`) containing the dashboards.
-
-3. **Dashboard Navigation**: Navigate between different sheets representing each dashboard.
-
-4. **Data Updates**: Update the underlying data tables to reflect current financial data.
-
-5. **Yearly Slicer**: Use the slicer to filter data and dynamically update dashboard visuals based on the selected year.
-
 #### Dashboard Components
 
 1. **Total Income Analysis**: A detailed breakdown of all income sources, showcasing the percentage contribution of each source. The source with the highest value is highlighted for easy identification.
